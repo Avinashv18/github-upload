@@ -1,9 +1,9 @@
 echo "Hello World! "
 Good to see you,...
 
-
+<<<<<<< HEAD
 
 Have a great day!!!
-
+=======
 Great work, masterpiece...
-
+>>>>>>> commit in local
